@@ -1,0 +1,301 @@
+* {margin: 0; padding: 0;}
+
+body{font-family: sans-serif;}
+
+/*navbar*/
+#main-nav{
+    background-color: #8c52ff;
+    height: 60px;
+    text-align: right;
+    position: fixed;
+    width: 100%
+}
+
+.logo-holder{
+    float: left;
+    padding-left: 20px;
+    text-align: left;
+}
+
+.logo-img{
+    width: 50px;
+    margin-top: 5px;
+
+    
+}
+
+#main-menu{
+    list-style: none;
+}
+
+.main-menu-item{
+    display: inline-block;
+}
+
+.main-menu-item a{
+    color: white;
+    text-decoration: none;
+    background-color: #eb7f00i;
+    padding: 10px;
+    margin: 10px;
+    border-radius: 2px;
+    display: inline-block;
+}
+
+.main-menu-item a: hover {
+    background-color: #c38bbf;
+}
+
+/*обложка сайта*/
+.sound {
+    color: #8c52ff;
+    
+}
+
+.cover{
+    background: url(../images/image-09-04-22-05-54-2.jpeg);
+    background-position: center;
+    background-size: cover;
+    color: #fff;
+    padding: 100px 20%
+    
+}
+
+.cover-dimmer{
+    background-color:( 0,0,0,0);
+    padding: 40px;
+    text-align: center
+}
+
+h1 {
+    font-size: 3.5rem;
+    margin-top: -10px;
+    margin-bottom: 0.25rem;
+}
+
+
+
+/*О нас*/
+.about{
+    background: url(../images/image-09-04-22-05-54-4.jpeg);
+    background-position: center;
+    background-size: cover;
+    color: white;
+    padding: 50px 20px;
+}
+
+h2{
+    font-size: 3.5rem;
+    margin-top: -10px;
+    margin-bottom: 0.25rem;
+}
+
+.about-us{
+    background: rgba(0,0,0,0.5);
+    padding: 40px;
+    text-align: center;
+}
+
+
+
+/*наши подборки*/
+
+.samples{
+    background: url(../images/IMG_1863.jpg);
+    background-size: cover;
+    width: 100%;
+    padding-top: 2rem;
+    text-align: center;
+    color: #fff;
+}
+
+.img-tusovka{
+    width: 100%
+}
+
+.container-1{
+    width: 80%;
+    margin: auto;
+}
+h3{
+    padding-bottom: 4rem;
+    font-size: 3rem;
+    
+}
+
+h4{
+    font-size: 1.285rem;
+    margin-bottom: 7px
+}
+
+.playlist-1{
+    font-size: .9rem;
+    text-align: left;
+    line-height: 300%
+}
+
+.sample{
+    display: inline-block;
+    width: 22%;
+    border: solid 5.5px grey;
+    margin: 1%;
+    padding: 2%
+}
+
+
+
+
+/*контакты*/
+
+footer{
+    background-color: #8c52ff;
+    padding: 3rem 0;
+    }
+
+.footer-table{
+    width: 80%;
+    margin: auto;
+    border: 0;
+    
+    
+    
+}
+
+td{
+    color: #fff;
+    border: 0;
+    width: 33%;
+    line-height: 1.6rem;
+    vertical-align: top;
+}
+
+.logo-bottom{
+    width: 110px
+}
+
+
+
+.bigger{
+    font-size: 1.2rem;
+    font-weight: bold;
+    font-family: sans-serif
+}
+
+
+td a{
+    text-decoration: none;
+    color: white;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

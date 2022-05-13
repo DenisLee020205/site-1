@@ -7,8 +7,13 @@ body{font-family: sans-serif;}
     background-color: #8c52ff;
     height: 60px;
     text-align: right;
+    width: 100s
+}
+
+header{
     position: fixed;
-    width: 100%
+    width: 100%;
+    z-index: 2;
 }
 
 .logo-holder{
@@ -26,6 +31,9 @@ body{font-family: sans-serif;}
 
 #main-menu{
     list-style: none;
+    font-size: 13.41px;
+    font-weight: 549;
+    font-family: arial;
 }
 
 .main-menu-item{
@@ -42,11 +50,16 @@ body{font-family: sans-serif;}
     display: inline-block;
 }
 
-.main-menu-item a: hover {
-    background-color: #c38bbf;
+.main-menu-item a:hover{
+    background-color: #4b0082;
 }
 
 /*обложка сайта*/
+.tvoi{
+    text-align: center;
+    font-size:2rem;
+}
+
 .sound {
     color: #8c52ff;
     
@@ -64,13 +77,14 @@ body{font-family: sans-serif;}
 .cover-dimmer{
     background-color:( 0,0,0,0);
     padding: 40px;
-    text-align: center
+    text-align: center;
+    margin-top: 60px;
 }
 
 h1 {
-    font-size: 3.5rem;
-    margin-top: -10px;
-    margin-bottom: 0.25rem;
+    font-size: 6rem;
+    margin-top: 60px;
+    margin-bottom: 60px;
 }
 
 
@@ -107,6 +121,7 @@ h2{
     padding-top: 2rem;
     text-align: center;
     color: #fff;
+    position: relative;
 }
 
 .img-tusovka{
@@ -114,7 +129,7 @@ h2{
 }
 
 .container-1{
-    width: 80%;
+    width: 100%;
     margin: auto;
 }
 h3{
@@ -130,16 +145,19 @@ h4{
 
 .playlist-1{
     font-size: .9rem;
-    text-align: left;
-    line-height: 300%
+    text-align:left;
+    line-height: 300%;
 }
 
 .sample{
     display: inline-block;
-    width: 22%;
+    width: 24.3%;
     border: solid 5.5px grey;
     margin: 1%;
-    padding: 2%
+    padding: 2%;
+    vertical-align: top
+    
+    
 }
 
 
@@ -150,12 +168,15 @@ h4{
 footer{
     background-color: #8c52ff;
     padding: 3rem 0;
+     margin: auto;
+    height: auto;
     }
 
 .footer-table{
     width: 80%;
     margin: auto;
     border: 0;
+   
     
     
     
@@ -186,116 +207,4 @@ td a{
     text-decoration: none;
     color: white;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
